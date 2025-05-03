@@ -5,6 +5,8 @@ Este projeto consiste no desenvolvimento de um circuito com programação em AVR
 
 Acionar um display de 7 segmentos para exibir os 16 dígitos hexadecimais: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E e F.
 
+![Display7](Display7.png) 
+
 
 🛠 Tecnologias e Componentes Utilizados:
 
